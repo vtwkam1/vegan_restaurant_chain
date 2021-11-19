@@ -36,6 +36,11 @@ item_description <- html %>%
     html_elements(".ccl-91a59d84c8a54641 .ccl-9d0a5327c911d0f3") %>% 
     html_text2()
 
+# extract menu sections
+menu_section <- html %>% 
+    html_elements(".ccl-08a2df08ac68413d .ccl-9ff886da4b0592ae") %>% 
+    html_text2()
+
 # check lengths
 length(item_name)
 length(item_name) == length(item_price)
@@ -46,5 +51,8 @@ item_table <- tibble(name=item_name,
                      description=item_description, 
                      price=item_price)
 
+# export item table
 write.csv(item_table, "wagamamas.csv", row.names = F)
 
+# export menu section
+write(menu_section, "wagamamas_menu_sections.txt")
