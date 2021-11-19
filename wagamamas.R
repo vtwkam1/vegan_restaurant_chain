@@ -46,7 +46,5 @@ item_table <- tibble(name=item_name,
                      description=item_description, 
                      price=item_price)
 
-item_table <- item_table %>% 
-    filter(!str_detect(name, "bundle")) %>% # drop bundles
-    slice(1:)
+write.csv(item_table, "wagamamas.csv", row.names = F)
 
