@@ -1,6 +1,6 @@
 library(tidyverse)
 
-source_table <- read.csv("wagamamas.csv")
+source_table <- read.csv("wagamama.csv")
 
 dim(source_table) # check dimensions (141 rows)
 
@@ -14,7 +14,7 @@ table <- source_table %>%
 nrow(table) # 115 rows
 
 # Assign menu sections
-menu_section <- read.delim("wagamamas_menu_sections.txt", header=F)
+menu_section <- read.delim("wagamama_menu_section.txt", header=F)
 menu_section <- as.character(menu_section[,1]) %>% str_to_lower()
 
 ## Tidy menu sections
@@ -78,11 +78,13 @@ table <- table %>%
            .before = 1)
 
 # Identify vegan options
-protein_table <- table %>% 
+table <- table %>% 
     mutate(vegan = case_when(
         str_detect(name, "(vg)") ~ "vegan",
         str_detect(name, "(v)") ~ "vegetarian",
         TRUE ~ "non-veg"))
+
+protein_table <- table
 
 # Vegan protein list
 veg_protein <- c("seitan", "tofu", "soya")
@@ -134,7 +136,7 @@ protein_sql <- protein_table %>%
     drop_na(protein) %>% 
     rename(item_id = id)
 
-write.csv(protein_sql, "wagamamas_protein.csv", row.names = F)
+write.csv(protein_sql, "wagamama_protein.csv", row.names = F)
 
 # Menu section SQL table
 section_sql <- table %>% 
@@ -142,7 +144,7 @@ section_sql <- table %>%
     mutate(section_id = row_number(),
            .before = 1)
 
-write.csv(section_sql, "wagamamas_section.csv", row.names = F)
+write.csv(section_sql, "wagamama_section.csv", row.names = F)
 
 # Item SQL table
 item_sql <- table %>% 
@@ -151,5 +153,5 @@ item_sql <- table %>%
     select(!section) %>% 
     rename(item_id = id, item_name = name)
 
-write.csv(item_sql, "wagamamas_item.csv", row.names = F)
+write.csv(item_sql, "wagamama_item.csv", row.names = F)
 
