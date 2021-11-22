@@ -60,7 +60,7 @@ table %>%
 
 table <- table %>% 
     filter(!section %in% section_drop) %>% # drop sections
-    mutate(name = str_replace(name, "new//!", "") %>% str_trim()) # tidy
+    mutate(name = str_replace(name, "new\\!", "") %>% str_trim()) # tidy
 
 nrow(table)
 
