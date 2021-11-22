@@ -60,11 +60,11 @@ extract_menu <- function(html, itemname_cost_css, item_description_css, menu_sec
 }
 
 
-scraped_html <- scrape_menu(url = "https://deliveroo.co.uk/menu/sheffield/sheffield-city-centre/nandos-sheffield-west-street")
+scraped_html <- scrape_menu(url = "https://deliveroo.co.uk/menu/sheffield/ecclesall-road/sheffield-ecclesall-road-pizzaexpress")
 
 extract_menu(html = scraped_html, 
-             itemname_cost_css = ".orderweb__e1b03759 .ccl-1daa0367dee37c3b", 
+             itemname_cost_css = ".orderweb__e1b03759 .ccl-1daa0367dee37c3b:nth-child(1)", 
              item_description_css = ".ccl-91a59d84c8a54641 .ccl-9d0a5327c911d0f3", 
              menu_section_css = ".ccl-08a2df08ac68413d .ccl-9ff886da4b0592ae", 
-             chain = "nandos")
+             chain = "pizza_express")
 

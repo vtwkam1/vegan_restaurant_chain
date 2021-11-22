@@ -13,6 +13,10 @@ table <- source_table %>%
            price = as.numeric(str_replace(price, "[:symbol:]", ""))) %>% 
     mutate(across(c(name, description), ~ str_replace_all(.x, "\\<[:graph:]*\\>", "" %>% str_trim)))
 
+# Identify sold out items to manually add description
+table %>% 
+    filter(description == "currently sold out")
+
 table <- table %>% 
     filter(between(row_number(), 1, (which(name=="coca-cola classic")-1))) # drop drinks
 

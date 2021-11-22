@@ -13,6 +13,10 @@ table <- source_table %>%
 
 nrow(table) # 115 rows
 
+# Identify sold out items to manually add description
+table %>% 
+    filter(description == "currently sold out")
+
 # Assign menu sections
 menu_section <- read.delim("wagamama_menu_section.txt", header=F)
 menu_section <- as.character(menu_section[,1]) %>% str_to_lower()
@@ -80,8 +84,8 @@ table <- table %>%
 # Identify vegan options
 table <- table %>% 
     mutate(vegan = case_when(
-        str_detect(name, "(vg)") ~ "vegan",
-        str_detect(name, "(v)") ~ "vegetarian",
+        str_detect(name, "\\(vg\\)") ~ "vegan",
+        str_detect(name, "\\(v\\)") ~ "vegetarian",
         TRUE ~ "non-veg"))
 
 protein_table <- table
