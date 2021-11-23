@@ -1,62 +1,62 @@
-"item_id","item_name","description","price","category","vegan","section_id"
-1,"dough balls 'pizzaexpress' (v)","no one does garlic butter like we do. freshly made dailywith creamy butter and whole crushed garlic…",3.95,"sides","vegetarian",1
-2,"halloumi bites (v) (gf)","crispy coated halloumi with italian tomato dip and parsley…",4.65,"sides","vegetarian",1
-3,"dough balls doppio (v)","double helpings with garlic butter, basil & pine kernelpesto and smoky tomato harissa…",8.35,"sides","vegetarian",1
-4,"calamari","lightly crumbed calamari with caesar dressing, lemon andparsley…",6.45,"sides","non-veg",1
-5,"lemon & herb chicken wings (gf)","new recipe house dressing dip and parsley…",6.3,"sides","non-veg",1
-6,"bruschetta originale 'pizzaexpress' (v)","freshly-baked dough topped with our signature garlicbutter, fresh tomatoes, red onion and basil & pine kerne……",5.5,"sides","vegetarian",1
-7,"buffalo mozzarella & tomato salad (v) (gf)","beautifully soft luxurious buffalo milk mozzarella with freshtomatoes and basil & pine kernel pesto…",4.95,"sides","vegetarian",1
-8,"garlic bread with mozzarella (v)","for dough lovers, a perfect prelude to the main course;smothered with garlic butter and melted mozzarella…",4.95,"sides","vegetarian",1
-9,"polenta chips (v)","rosemary polenta chips with gran milano cheese, andhoney & mustard dip…",4.15,"sides","vegetarian",1
-10,"vegan dough balls 'pizzaexpress' (v) (ve)","a pizzaexpress classic, served with smoky tomato harissa…",3.95,"sides","vegan",1
-11,"mixed salad (v) (ve) (gf)","mixed leaves, rocket, tomatoes and cucumber with newrecipe house dressing…",3.9,"sides","vegan",1
-12,"marinated olives (v) (ve) (gf)","with pink peppercorns and whole sweet garlic cloves…",2.5,"sides","vegan",1
-13,"roasted tomatoes (v) (ve) (gf)","marinated in garlic and oregano and packed with flavour…",2.5,"sides","vegan",1
-14,"margherita (v)","the hero here is our passata, lovingly made by the grecifamily, with 100% italian tomatoes from parma since ’87,……",8.95,"mains","vegetarian",2
-15,"american","on the menu since day one with only the best pepperoni,with mozzarella and tomato…",9.45,"mains","non-veg",2
-16,"bbq burnt ends","slow-cooked beef brisket with a hint of chipotle, sweet &smoky bbq sauce, mozzarella and red onions, topped wi……",12,"mains","non-veg",2
-17,"etna","exclusive to deliveroo - soft and spicy ‘nduja sausage withpancetta, spicy roquito pepper, tomato, mozzarella and ……",12,"mains","non-veg",2
-18,"pollo forza","forza is italian for strong. big on flavour and full of colourwith smoked chilli chicken, roasted peppers, hot & sweet……",12,"mains","non-veg",2
-19,"diavolo","the name means 'devil' and, sure enough, this is a pizzawith attitude! topped with spicy beef, pepperoni, mozzar……",12,"mains","non-veg",2
-20,"sloppy giuseppe","famous for hot spiced beef, green pepper, red onion,mozzarella and tomato…",11.95,"mains","non-veg",2
-21,"vegan giardiniera (v) (ve)","a veggie lover's delight. artichoke, mushrooms, red onionand black olives, with tomato, vegan mozzarella alternati……",11.45,"mains","vegan",2
-22,"american hot","in our humble opinion, the best pepperoni, packed withpaprika for a smoky depth of flavour, mozzarella and to……",11,"mains","non-veg",2
-23,"pollo ad astra","cajun spiced chicken, red onions, mozzarella, tomato,garlic oil and sweet red peppers really deliver on southe……",11,"mains","non-veg",2
-24,"la reine","the queen. ham, black olives, mushrooms, mozzarellaand tomato …",10.95,"mains","non-veg",2
-25,"quattro formaggi piccante (v)","a hot take on a four cheese favourite: pecorino, italianblue cheese, mozzarella and gran milano cheese with to……",10,"mains","vegetarian",2
-26,"fiorentina (v)","the one with the 'egg and spinach', plus mozzarella,tomato, gran milano cheese, black olives and garlic oil…",9.95,"mains","vegetarian",2
-27,"veneziana (v)","our love letter to venice. flavoursome capers, red onion,black olives, sultanas and pine kernels, with mozzarella ……",9.7,"mains","vegetarian",2
-28,"porchetta","porchetta; slow-cooked pulled pork is a traditional part of many italian feasts. we’ve put it on a white béchamel base with crispy pancetta, mozzarella, garlic oil, fennel seeds and gran milano cheese on a romana base.",12,"mains","non-veg",2
-29,"padana natale (v)","goat’s cheese, spinach, mozzarella, tomato, garlic oil andred onions – it’s a feast of flavours and textures, topped……",11.25,"mains","vegetarian",2
-30,"mushroom & truffle (v)","mushroom lovers, this one’s for you. mixed mushrooms, béchamel, mozzarella, gran milano cheese, garlic, rosemary, a generous splash of truffle oil, parsley and a double pinch of black pepper come together in an indulgent vegetarian delight on a romana base.",12,"mains","vegetarian",2
-31,"vegan mushroom & pine nut (v) (ve)","a white 'bianca' pizza. the base is seasoned with oregano,pepper and garlic oil, then topped with chestnut mushro……",12,"mains","vegan",2
-32,"pollo pesto (gf)","chicken, mushroom, red onion, mozzarella, gran milano cheese and penne pasta baked in a béchamel and basil & pine kernel pesto sauce.",11.75,"mains","non-veg",3
-33,"bolognese (gf)","beef bolognese ragù with penne pasta, garlic and fennelseeds, parsley and gran milano cheese…",11.75,"mains","non-veg",3
-34,"melanzane (v) (gf)","grilled aubergine, italian tomato sauce, garlic, mozzarellaan gran milano cheese…",11.45,"mains","vegetarian",3
-35,"lasagna classica","the ultimate al forno dish. slow-cooked beef, mushroomand tomato ragù, layered with silky pasta, creamy bécha……",11.45,"mains","non-veg",3
-36,"cannelloni (v)","spinach and ricotta filled pasta with passata, béchamel, mozzarella, garlic oil and gran milano cheese.",11.45,"mains","vegetarian",3
-37,"calzone 'nduja","rich & spicy 'nduja pork sausage and pepperoni meltinginto mozzarella and tomato, with the heat of fiery chillies,……",13.95,"mains","non-veg",4
-38,"calzone verdure (v) (ve)","roasted sweet peppers and silky aubergine with spinach,smoky tomato harissa, hot chilli, tomato with garlic and s……",13.45,"mains","vegan",4
-39,"vegan nourish bowl (v) (ve)","mixed grains with lemon and herbs, chilli & maple sweetpotato, roasted peppers, mixed leaves, cucumber and o……",8.95,"mains","vegan",5
-40,"niçoise (gf)","on the menu since '85 and easy to see why. the bigflavours of white anchovies, capers, olives and tuna, wit……",8.95,"mains","non-veg",5
-41,"pollo & grain","chicken, mixed grains with lemon and herbs, slow-roastedtomatoes, black olives, mixed leaves, cucumber and our……",8.75,"mains","non-veg",5
-42,"caprese & prosciutto (gf)","prosciutto ham, buffalo mozzarella, marinated tomatoes,olives, roasted peppers, mixed leaves, basil & pine kern……",8.75,"mains","non-veg",5
-43,"grand chicken caesar","chicken, white anchovies, cos lettuce, croutons, granmilano cheese, free-range egg and caesar dressing…",8.75,"mains","non-veg",5
-44,"vegan diavolo (v) (ve)","a hot devil. smoky jackfruit 'pepperoni', quorn™ pieces,tabasco, smoky chilli, garlic oil, fennel seeds, tomato, gr……",12,"mains","vegan",6
-45,"vegan forza (v) (ve)","forza is italian for strong. big on flavour and full of colour,smoky chilli quorn™ with mixed peppers, tomato, hot & ……",12,"mains","vegan",6
-46,"vegan melanzane (v) (ve) (gf)","the ultimate comfort food. grilled aubergine, italiantomato sauce, garlic, vegan mozzarella alternative and f……",11.45,"mains","vegan",6
-47,"sloppy vegan (v) (ve)","quorn™ pieces with green pepper, red onion, tomato,smoky chilli, garlic oil, vegan mozzarella alternative and ……",11.45,"mains","vegan",6
-48,"vegan american hot (v) (ve)","turn up the heat with smoky jackfruit 'pepperoni', tomatoand vegan mozzarella alternative, with your choice of ho……",11,"mains","vegan",6
-49,"vegan ad astra (v) (ve)","what a star. quorn™ with sweet red peppers, cajunspice, red onion, tomato, garlic oil and vegan mozzarella……",11,"mains","vegan",6
-50,"vegan veneziana (v) (ve)","our love letter to venice. flavoursome capers, red onion,black olives, sultanas and pine kernels, with vegan mozz……",9.7,"mains","vegan",6
-51,"vegan american jack (v) (ve)","smoky vegan jackfruit 'pepperoni' and tomato withsignature vegan mozzarella alternative…",9.45,"mains","vegan",6
-52,"vegan margherita (v) (ve)","the hero here is our passata. lovingly made by the grecifamily, with 100% italian tomatoes from parma since ’87,……",8.95,"mains","vegan",6
-53,"vegan padana natale (v) (ve)","our signature vegan mozzarella alternative, combined withspinach, tomato, garlic oil and red onions, all topped wit……",11.25,"mains","vegan",6
-54,"chocolate brownie (v) (gf)","we've taken chocolate brownie to a new level, luxuriousdouble belgian chocolate and silky chocolate sauce…",3.75,"desserts","vegetarian",7
-55,"red berry & vanilla cheesecake (v)","what a combination. tart, sweet red berries and coulismeets rich vanilla…",3.75,"desserts","vegetarian",7
-56,"orange & carrot cake (v) (ve) (gf)","full of flavour. vegan and gluten-free to suit everyone…",3.75,"desserts","vegan",7
-57,"tiramisu (v)","ladyfingers, mascarpone, marsala wine, coffee and cocoa.",4.2,"desserts","vegetarian",7
-58,"chocolate fudge cake (v)","freshly baked in our pizza ovens, a chocolate loversdream!…",3.75,"desserts","vegetarian",7
-59,"snowball dough balls (v)","what could be better than dough balls? snowball doughballs! dusted with cinnamon and icing sugar, and serve……",3.95,"desserts","vegetarian",7
-60,"snowball dough balls doppio (v)","double the fun! a double portion of snowball dough balls.served with all three dips; salted caramel, fruit coulis an……",8.35,"desserts","vegetarian",7
-61,"vegan snowball dough balls (v) (ve)","what could be better than dough balls? snowball doughballs! dusted with cinnamon and icing sugar, served wit……",3.95,"desserts","vegan",7
+"item_id_r","item_name","description","price","category","vegan","section_id_sql"
+1,"dough balls 'pizzaexpress' (v)","no one does garlic butter like we do. freshly made dailywith creamy butter and whole crushed garlic...",3.95,"sides","vegetarian",20
+2,"halloumi bites (v) (gf)","crispy coated halloumi with italian tomato dip and parsley...",4.65,"sides","vegetarian",20
+3,"dough balls doppio (v)","double helpings with garlic butter, basil & pine kernelpesto and smoky tomato harissa...",8.35,"sides","vegetarian",20
+4,"calamari","lightly crumbed calamari with caesar dressing, lemon andparsley...",6.45,"sides","non-veg",20
+5,"lemon & herb chicken wings (gf)","new recipe house dressing dip and parsley...",6.3,"sides","non-veg",20
+6,"bruschetta originale 'pizzaexpress' (v)","freshly-baked dough topped with our signature garlicbutter, fresh tomatoes, red onion and basil & pine kerne......",5.5,"sides","vegetarian",20
+7,"buffalo mozzarella & tomato salad (v) (gf)","beautifully soft luxurious buffalo milk mozzarella with freshtomatoes and basil & pine kernel pesto...",4.95,"sides","vegetarian",20
+8,"garlic bread with mozzarella (v)","for dough lovers, a perfect prelude to the main course;smothered with garlic butter and melted mozzarella...",4.95,"sides","vegetarian",20
+9,"polenta chips (v)","rosemary polenta chips with gran milano cheese, andhoney & mustard dip...",4.15,"sides","vegetarian",20
+10,"vegan dough balls 'pizzaexpress' (v) (ve)","a pizzaexpress classic, served with smoky tomato harissa...",3.95,"sides","vegan",20
+11,"mixed salad (v) (ve) (gf)","mixed leaves, rocket, tomatoes and cucumber with newrecipe house dressing...",3.9,"sides","vegan",20
+12,"marinated olives (v) (ve) (gf)","with pink peppercorns and whole sweet garlic cloves...",2.5,"sides","vegan",20
+13,"roasted tomatoes (v) (ve) (gf)","marinated in garlic and oregano and packed with flavour...",2.5,"sides","vegan",20
+14,"margherita (v)","the hero here is our passata, lovingly made by the grecifamily, with 100% italian tomatoes from parma since '87,......",8.95,"mains","vegetarian",21
+15,"american","on the menu since day one with only the best pepperoni,with mozzarella and tomato...",9.45,"mains","non-veg",21
+16,"bbq burnt ends","slow-cooked beef brisket with a hint of chipotle, sweet &smoky bbq sauce, mozzarella and red onions, topped wi......",12,"mains","non-veg",21
+17,"etna","exclusive to deliveroo - soft and spicy 'nduja sausage withpancetta, spicy roquito pepper, tomato, mozzarella and ......",12,"mains","non-veg",21
+18,"pollo forza","forza is italian for strong. big on flavour and full of colourwith smoked chilli chicken, roasted peppers, hot & sweet......",12,"mains","non-veg",21
+19,"diavolo","the name means 'devil' and, sure enough, this is a pizzawith attitude! topped with spicy beef, pepperoni, mozzar......",12,"mains","non-veg",21
+20,"sloppy giuseppe","famous for hot spiced beef, green pepper, red onion,mozzarella and tomato...",11.95,"mains","non-veg",21
+21,"vegan giardiniera (v) (ve)","a veggie lover's delight. artichoke, mushrooms, red onionand black olives, with tomato, vegan mozzarella alternati......",11.45,"mains","vegan",21
+22,"american hot","in our humble opinion, the best pepperoni, packed withpaprika for a smoky depth of flavour, mozzarella and to......",11,"mains","non-veg",21
+23,"pollo ad astra","cajun spiced chicken, red onions, mozzarella, tomato,garlic oil and sweet red peppers really deliver on southe......",11,"mains","non-veg",21
+24,"la reine","the queen. ham, black olives, mushrooms, mozzarellaand tomato ...",10.95,"mains","non-veg",21
+25,"quattro formaggi piccante (v)","a hot take on a four cheese favourite: pecorino, italianblue cheese, mozzarella and gran milano cheese with to......",10,"mains","vegetarian",21
+26,"fiorentina (v)","the one with the 'egg and spinach', plus mozzarella,tomato, gran milano cheese, black olives and garlic oil...",9.95,"mains","vegetarian",21
+27,"veneziana (v)","our love letter to venice. flavoursome capers, red onion,black olives, sultanas and pine kernels, with mozzarella ......",9.7,"mains","vegetarian",21
+28,"porchetta","porchetta; slow-cooked pulled pork is a traditional part of many italian feasts. we've put it on a white bechamel base with crispy pancetta, mozzarella, garlic oil, fennel seeds and gran milano cheese on a romana base.",12,"mains","non-veg",21
+29,"padana natale (v)","goat's cheese, spinach, mozzarella, tomato, garlic oil andred onions - it's a feast of flavours and textures, topped......",11.25,"mains","vegetarian",21
+30,"mushroom & truffle (v)","mushroom lovers, this one's for you. mixed mushrooms, bechamel, mozzarella, gran milano cheese, garlic, rosemary, a generous splash of truffle oil, parsley and a double pinch of black pepper come together in an indulgent vegetarian delight on a romana base.",12,"mains","vegetarian",21
+31,"vegan mushroom & pine nut (v) (ve)","a white 'bianca' pizza. the base is seasoned with oregano,pepper and garlic oil, then topped with chestnut mushro......",12,"mains","vegan",21
+32,"pollo pesto (gf)","chicken, mushroom, red onion, mozzarella, gran milano cheese and penne pasta baked in a bechamel and basil & pine kernel pesto sauce.",11.75,"mains","non-veg",22
+33,"bolognese (gf)","beef bolognese ragu with penne pasta, garlic and fennelseeds, parsley and gran milano cheese...",11.75,"mains","non-veg",22
+34,"melanzane (v) (gf)","grilled aubergine, italian tomato sauce, garlic, mozzarellaan gran milano cheese...",11.45,"mains","vegetarian",22
+35,"lasagna classica","the ultimate al forno dish. slow-cooked beef, mushroomand tomato ragu, layered with silky pasta, creamy becha......",11.45,"mains","non-veg",22
+36,"cannelloni (v)","spinach and ricotta filled pasta with passata, bechamel, mozzarella, garlic oil and gran milano cheese.",11.45,"mains","vegetarian",22
+37,"calzone 'nduja","rich & spicy 'nduja pork sausage and pepperoni meltinginto mozzarella and tomato, with the heat of fiery chillies,......",13.95,"mains","non-veg",23
+38,"calzone verdure (v) (ve)","roasted sweet peppers and silky aubergine with spinach,smoky tomato harissa, hot chilli, tomato with garlic and s......",13.45,"mains","vegan",23
+39,"vegan nourish bowl (v) (ve)","mixed grains with lemon and herbs, chilli & maple sweetpotato, roasted peppers, mixed leaves, cucumber and o......",8.95,"mains","vegan",24
+40,"nicoise (gf)","on the menu since '85 and easy to see why. the bigflavours of white anchovies, capers, olives and tuna, wit......",8.95,"mains","non-veg",24
+41,"pollo & grain","chicken, mixed grains with lemon and herbs, slow-roastedtomatoes, black olives, mixed leaves, cucumber and our......",8.75,"mains","non-veg",24
+42,"caprese & prosciutto (gf)","prosciutto ham, buffalo mozzarella, marinated tomatoes,olives, roasted peppers, mixed leaves, basil & pine kern......",8.75,"mains","non-veg",24
+43,"grand chicken caesar","chicken, white anchovies, cos lettuce, croutons, granmilano cheese, free-range egg and caesar dressing...",8.75,"mains","non-veg",24
+44,"vegan diavolo (v) (ve)","a hot devil. smoky jackfruit 'pepperoni', quorn™ pieces,tabasco, smoky chilli, garlic oil, fennel seeds, tomato, gr......",12,"mains","vegan",25
+45,"vegan forza (v) (ve)","forza is italian for strong. big on flavour and full of colour,smoky chilli quorn™ with mixed peppers, tomato, hot & ......",12,"mains","vegan",25
+46,"vegan melanzane (v) (ve) (gf)","the ultimate comfort food. grilled aubergine, italiantomato sauce, garlic, vegan mozzarella alternative and f......",11.45,"mains","vegan",25
+47,"sloppy vegan (v) (ve)","quorn™ pieces with green pepper, red onion, tomato,smoky chilli, garlic oil, vegan mozzarella alternative and ......",11.45,"mains","vegan",25
+48,"vegan american hot (v) (ve)","turn up the heat with smoky jackfruit 'pepperoni', tomatoand vegan mozzarella alternative, with your choice of ho......",11,"mains","vegan",25
+49,"vegan ad astra (v) (ve)","what a star. quorn™ with sweet red peppers, cajunspice, red onion, tomato, garlic oil and vegan mozzarella......",11,"mains","vegan",25
+50,"vegan veneziana (v) (ve)","our love letter to venice. flavoursome capers, red onion,black olives, sultanas and pine kernels, with vegan mozz......",9.7,"mains","vegan",25
+51,"vegan american jack (v) (ve)","smoky vegan jackfruit 'pepperoni' and tomato withsignature vegan mozzarella alternative...",9.45,"mains","vegan",25
+52,"vegan margherita (v) (ve)","the hero here is our passata. lovingly made by the grecifamily, with 100% italian tomatoes from parma since '87,......",8.95,"mains","vegan",25
+53,"vegan padana natale (v) (ve)","our signature vegan mozzarella alternative, combined withspinach, tomato, garlic oil and red onions, all topped wit......",11.25,"mains","vegan",25
+54,"chocolate brownie (v) (gf)","we've taken chocolate brownie to a new level, luxuriousdouble belgian chocolate and silky chocolate sauce...",3.75,"desserts","vegetarian",26
+55,"red berry & vanilla cheesecake (v)","what a combination. tart, sweet red berries and coulismeets rich vanilla...",3.75,"desserts","vegetarian",26
+56,"orange & carrot cake (v) (ve) (gf)","full of flavour. vegan and gluten-free to suit everyone...",3.75,"desserts","vegan",26
+57,"tiramisu (v)","ladyfingers, mascarpone, marsala wine, coffee and cocoa.",4.2,"desserts","vegetarian",26
+58,"chocolate fudge cake (v)","freshly baked in our pizza ovens, a chocolate loversdream!...",3.75,"desserts","vegetarian",26
+59,"snowball dough balls (v)","what could be better than dough balls? snowball doughballs! dusted with cinnamon and icing sugar, and serve......",3.95,"desserts","vegetarian",26
+60,"snowball dough balls doppio (v)","double the fun! a double portion of snowball dough balls.served with all three dips; salted caramel, fruit coulis an......",8.35,"desserts","vegetarian",26
+61,"vegan snowball dough balls (v) (ve)","what could be better than dough balls? snowball doughballs! dusted with cinnamon and icing sugar, served wit......",3.95,"desserts","vegan",26

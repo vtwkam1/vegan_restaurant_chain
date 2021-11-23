@@ -123,14 +123,6 @@ protein_table <- protein_table %>%
         temp_table %>% select(id, protein), 
         by="id") # rejoin for pivoted
 
-# Protein SQL table
-protein_sql <- protein_table %>% 
-    select(id, protein) %>%
-    drop_na(protein) %>% 
-    rename(item_id = id)
-
-write.csv(protein_sql, sprintf("%s_protein.csv", chain), row.names = F)
-
 # Menu section SQL table
 section_sql <- table %>% 
     distinct(section) %>% 
@@ -139,12 +131,33 @@ section_sql <- table %>%
 
 write.csv(section_sql, sprintf("%s_section.csv", chain), row.names = F)
 
+## Import new Section IDs from SQL database
+section_id_sql_assigned <- read.csv(sprintf("%s_section_sql.csv", chain))
+
+## Replace Section IDs
+section_sql <- section_sql %>% 
+    inner_join(section_id_sql_assigned,
+               by = c("section"="section_name"),
+               suffix = c("_r", "_sql"))
+
 # Item SQL table
 item_sql <- table %>% 
-    left_join(section_sql, 
-              by="section") %>% 
+    left_join(section_sql %>% select(!section_id_r), 
+              by=c("section"="section")) %>% 
     select(!section) %>% 
-    rename(item_id = id, item_name = name)
+    rename(item_id_r = id, item_name = name) 
 
 write.csv(item_sql, sprintf("%s_item.csv", chain), row.names = F)
 
+## Import new item IDs from SQL database
+item_id_sql_assigned <- read.csv(sprintf("%s_item_sql.csv", chain))
+
+# Protein SQL table
+protein_sql <- protein_table %>%
+    left_join(item_id_sql_assigned, 
+              by=c("name"="item_name")) %>%
+    select(!id) %>% 
+    select(item_id, protein) %>%
+    drop_na(protein)
+
+write.csv(protein_sql, sprintf("%s_protein.csv", chain), row.names = F)
