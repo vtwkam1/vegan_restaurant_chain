@@ -136,13 +136,13 @@ section_id_sql_assigned <- read.csv(sprintf("%s_section_sql.csv", chain))
 
 ## Replace Section IDs
 section_sql <- section_sql %>% 
-    inner_join(section_id_sql_assigned,
-               by = c("section"="section_name"),
+    inner_join(section_id_sql_assigned %>% select(!section_name),
+               by = c("section_id"="temp_id"),
                suffix = c("_r", "_sql"))
 
 # Item SQL table
 item_sql <- table %>% 
-    left_join(section_sql %>% select(!section_id_r), 
+    left_join(section_sql %>% select(!section_id), 
               by=c("section"="section")) %>% 
     select(!section) %>% 
     rename(item_id_r = id, item_name = name) 
@@ -155,9 +155,9 @@ item_id_sql_assigned <- read.csv(sprintf("%s_item_sql.csv", chain))
 # Protein SQL table
 protein_sql <- protein_table %>%
     left_join(item_id_sql_assigned, 
-              by=c("name"="item_name")) %>%
+              by=c("id"="temp_id")) %>%
     select(!id) %>% 
     select(item_id, protein) %>%
-    drop_na(protein)
+    drop_na(protein) 
 
 write.csv(protein_sql, sprintf("%s_protein.csv", chain), row.names = F)
