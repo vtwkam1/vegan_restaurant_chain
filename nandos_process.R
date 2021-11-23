@@ -1,4 +1,5 @@
 library(tidyverse)
+library(stringi)
 
 chain <- "nandos"
 

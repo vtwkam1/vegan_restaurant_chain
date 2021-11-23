@@ -1,8 +1,8 @@
-section_id,section_name
-20,starters
-21,pizzas
-22,"al forno"
-23,calzone
-24,salads
-25,"vegan menu"
-26,desserts
+section_id,section_name,temp_id
+15,starters,1
+16,pizzas,2
+17,"al forno",3
+18,calzone,4
+19,salads,5
+20,"vegan menu",6
+21,desserts,7

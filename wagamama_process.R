@@ -1,4 +1,5 @@
 library(tidyverse)
+library(stringi)
 
 source_table <- read.csv("wagamama.csv")
 

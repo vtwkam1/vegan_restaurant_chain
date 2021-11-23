@@ -1,31 +1,31 @@
-"item_id_r","item_name","description","price","category","vegan","section_id_sql"
-1,"spicy mixed olives","spicy mixed olives co-starring mushrooms, garlic and redpepper.…",3.75,"sides","vegan",10
-2,"peri-peri nuts","crunchy almonds, cashews and macadamia nuts in a fieryperi-peri seasoning. …",3.75,"sides","vegan",10
-3,"halloumi sticks & dip","five chunky sticks of grilled halloumi with chilli jam fordipping.…",4.25,"sides","vegetarian",10
-4,"chicken butterfly","two chicken breasts, flame-grilled with crispy skin. infusedwith peri-peri and served in your choice of spice. …",8.25,"mains","non-veg",11
-5,"1/2 chicken","one breast and one leg, flame-grilled and infused withperi-peri. served on the bone with crispy skin, in your ……",7.95,"mains","non-veg",11
-6,"4 boneless chicken thighs","flame-grilled with crispy skin. infused with peri-peri andserved in your choice of spice. …",8.25,"mains","non-veg",11
-7,"whole chicken","flame-grilled, infused with peri-peri and served in yourchoice of spice. cut into quarters and perfect with sides,……",14.5,"mains","non-veg",11
-8,"1/4 chicken","flame-grilled, infused with peri-peri and perfect forpairing with sides. served on the bone with crispy skin, i……",4.25,"mains","non-veg",11
-9,"3 chicken wings","flame-grilled, infused with peri-peri and perfect forpairing with sides. served in your choice of spice.…",3.95,"mains","non-veg",11
-10,"5 chicken wings","flame-grilled, infused with peri-peri and perfect forpairing with sides. served in your choice of spice.…",5.95,"mains","non-veg",11
-11,"10 chicken wings","flame-grilled with crispy skin and great for sharing! …",10.95,"mains","non-veg",11
-12,"15 chicken wings","bigger is always better. a feast that’s great for sharing! …",13.95,"mains","non-veg",11
-13,"10 wing roulette","think you can handle the heat? take on our challenge -10 wings in various heats. (it's not for the faint-hearted!).…",10.95,"mains","non-veg",11
-14,"sunset burger","two chicken thighs, melting cheddar cheese, smoky redpepper chutney, lettuce and lemon & herb mayo in a b……",8.25,"mains","non-veg",12
-15,"grilled chicken burger","chicken breast infused with peri-peri and grilled in yourfavourite spice. served in a portuguese roll with lemon ……",6.95,"mains","non-veg",12
-16,"grilled chicken wrap","chicken breast infused with peri-peri and grilled to yourfavourite spice. served in a wrap with lettuce, lightly spic……",6.95,"mains","non-veg",12
-17,"double chicken burger","two chicken breasts infused with peri-peri and grilled inyour favourite spice. served in a portuguese roll with le……",10.25,"mains","non-veg",12
-18,"double chicken wrap","two chicken breasts infused with peri-peri and grilled toyour favourite spice. served in a wrap with lettuce, lightl……",10.25,"mains","non-veg",12
-19,"the great imitator burger","our peri-plant strips are made from pea-protein but tastejust like our famous peri-peri chicken. served in a por……",6.95,"mains","vegan",12
-20,"the great imitator wrap","our peri-plant strips are made from pea-protein but tastejust like our famous peri-peri chicken. served with pla……",6.95,"mains","vegan",12
-21,"peri-salted chips","crispy and sprinkled with peri-peri salt. …",2.95,"sides","vegan",13
-22,"chips","crispy and delicious!…",2.95,"sides","vegan",13
-23,"garlic bread","grilled for the perfect crunch! …",2.95,"sides","vegan",13
-24,"coleslaw","packed full of crunchy chopped vegetables in a lightlyspiced mayo. …",2.95,"sides","vegetarian",13
-25,"spicy rice","lightly spiced rice. one of our signature sides!…",2.95,"sides","vegan",13
-26,"corn on the cob","crunchy, crisp and sweet. flame-grilled and served withbutter. …",2.95,"sides","vegetarian",13
-27,"mixed leaf salad","served with balsamic dressing…",2.95,"sides","vegan",13
-28,"rainbow slaw","a fresh mix of crunchy veg in a tangy mustard dressing.topped with seeds.…",2.95,"sides","vegan",13
-29,"gooey caramel cheesecake","rich and creamy caramel cheesecake on a crumblybiscuit base. served with cream to pour on.…",4.75,"desserts","vegetarian",14
-30,"salted caramel brownie","rich chocolate brownie with a delicious hint of saltedcaramel. …",2.75,"desserts","vegetarian",14
+item_id_r,item_name,description,price,category,vegan,section_id_sql
+1,spicy mixed olives,"spicy mixed olives co-starring mushrooms, garlic and redpepper....",3.75,sides,vegan,10
+2,peri-peri nuts,"crunchy almonds, cashews and macadamia nuts in a fieryperi-peri seasoning. ...",3.75,sides,vegan,10
+3,halloumi sticks & dip,five chunky sticks of grilled halloumi with chilli jam fordipping....,4.25,sides,vegetarian,10
+4,chicken butterfly,"two chicken breasts, flame-grilled with crispy skin. infusedwith peri-peri and served in your choice of spice. ...",8.25,mains,non-veg,11
+5,1/2 chicken,"one breast and one leg, flame-grilled and infused withperi-peri. served on the bone with crispy skin, in your ......",7.95,mains,non-veg,11
+6,4 boneless chicken thighs,flame-grilled with crispy skin. infused with peri-peri andserved in your choice of spice. ...,8.25,mains,non-veg,11
+7,whole chicken,"flame-grilled, infused with peri-peri and served in yourchoice of spice. cut into quarters and perfect with sides,......",14.5,mains,non-veg,11
+8,1/4 chicken,"flame-grilled, infused with peri-peri and perfect forpairing with sides. served on the bone with crispy skin, i......",4.25,mains,non-veg,11
+9,3 chicken wings,"flame-grilled, infused with peri-peri and perfect forpairing with sides. served in your choice of spice....",3.95,mains,non-veg,11
+10,5 chicken wings,"flame-grilled, infused with peri-peri and perfect forpairing with sides. served in your choice of spice....",5.95,mains,non-veg,11
+11,10 chicken wings,flame-grilled with crispy skin and great for sharing! ...,10.95,mains,non-veg,11
+12,15 chicken wings,bigger is always better. a feast that's great for sharing! ...,13.95,mains,non-veg,11
+13,10 wing roulette,think you can handle the heat? take on our challenge -10 wings in various heats. (it's not for the faint-hearted!)....,10.95,mains,non-veg,11
+14,sunset burger,"two chicken thighs, melting cheddar cheese, smoky redpepper chutney, lettuce and lemon & herb mayo in a b......",8.25,mains,non-veg,12
+15,grilled chicken burger,chicken breast infused with peri-peri and grilled in yourfavourite spice. served in a portuguese roll with lemon ......,6.95,mains,non-veg,12
+16,grilled chicken wrap,"chicken breast infused with peri-peri and grilled to yourfavourite spice. served in a wrap with lettuce, lightly spic......",6.95,mains,non-veg,12
+17,double chicken burger,two chicken breasts infused with peri-peri and grilled inyour favourite spice. served in a portuguese roll with le......,10.25,mains,non-veg,12
+18,double chicken wrap,"two chicken breasts infused with peri-peri and grilled toyour favourite spice. served in a wrap with lettuce, lightl......",10.25,mains,non-veg,12
+19,the great imitator burger,our peri-plant strips are made from pea-protein but tastejust like our famous peri-peri chicken. served in a por......,6.95,mains,vegan,12
+20,the great imitator wrap,our peri-plant strips are made from pea-protein but tastejust like our famous peri-peri chicken. served with pla......,6.95,mains,vegan,12
+21,peri-salted chips,crispy and sprinkled with peri-peri salt. ...,2.95,sides,vegan,13
+22,chips,crispy and delicious!...,2.95,sides,vegan,13
+23,garlic bread,grilled for the perfect crunch! ...,2.95,sides,vegan,13
+24,coleslaw,packed full of crunchy chopped vegetables in a lightlyspiced mayo. ...,2.95,sides,vegetarian,13
+25,spicy rice,lightly spiced rice. one of our signature sides!...,2.95,sides,vegan,13
+26,corn on the cob,"crunchy, crisp and sweet. flame-grilled and served withbutter. ...",2.95,sides,vegetarian,13
+27,mixed leaf salad,served with balsamic dressing...,2.95,sides,vegan,13
+28,rainbow slaw,a fresh mix of crunchy veg in a tangy mustard dressing.topped with seeds....,2.95,sides,vegan,13
+29,gooey caramel cheesecake,rich and creamy caramel cheesecake on a crumblybiscuit base. served with cream to pour on....,4.75,desserts,vegetarian,14
+30,salted caramel brownie,rich chocolate brownie with a delicious hint of saltedcaramel. ...,2.75,desserts,vegetarian,14

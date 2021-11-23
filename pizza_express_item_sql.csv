@@ -1,62 +1,62 @@
-item_id,item_name
-119,"dough balls 'pizzaexpress' (v)"
-120,"halloumi bites (v) (gf)"
-121,"dough balls doppio (v)"
-122,calamari
-123,"lemon & herb chicken wings (gf)"
-124,"bruschetta originale 'pizzaexpress' (v)"
-125,"buffalo mozzarella & tomato salad (v) (gf)"
-126,"garlic bread with mozzarella (v)"
-127,"polenta chips (v)"
-128,"vegan dough balls 'pizzaexpress' (v) (ve)"
-129,"mixed salad (v) (ve) (gf)"
-130,"marinated olives (v) (ve) (gf)"
-131,"roasted tomatoes (v) (ve) (gf)"
-132,"margherita (v)"
-133,american
-134,"bbq burnt ends"
-135,etna
-136,"pollo forza"
-137,diavolo
-138,"sloppy giuseppe"
-139,"vegan giardiniera (v) (ve)"
-140,"american hot"
-141,"pollo ad astra"
-142,"la reine"
-143,"quattro formaggi piccante (v)"
-144,"fiorentina (v)"
-145,"veneziana (v)"
-146,porchetta
-147,"padana natale (v)"
-148,"mushroom & truffle (v)"
-149,"vegan mushroom & pine nut (v) (ve)"
-150,"pollo pesto (gf)"
-151,"bolognese (gf)"
-152,"melanzane (v) (gf)"
-153,"lasagna classica"
-154,"cannelloni (v)"
-155,"calzone 'nduja"
-156,"calzone verdure (v) (ve)"
-157,"vegan nourish bowl (v) (ve)"
-158,"nicoise (gf)"
-159,"pollo & grain"
-160,"caprese & prosciutto (gf)"
-161,"grand chicken caesar"
-162,"vegan diavolo (v) (ve)"
-163,"vegan forza (v) (ve)"
-164,"vegan melanzane (v) (ve) (gf)"
-165,"sloppy vegan (v) (ve)"
-166,"vegan american hot (v) (ve)"
-167,"vegan ad astra (v) (ve)"
-168,"vegan veneziana (v) (ve)"
-169,"vegan american jack (v) (ve)"
-170,"vegan margherita (v) (ve)"
-171,"vegan padana natale (v) (ve)"
-172,"chocolate brownie (v) (gf)"
-173,"red berry & vanilla cheesecake (v)"
-174,"orange & carrot cake (v) (ve) (gf)"
-175,"tiramisu (v)"
-176,"chocolate fudge cake (v)"
-177,"snowball dough balls (v)"
-178,"snowball dough balls doppio (v)"
-179,"vegan snowball dough balls (v) (ve)"
+item_id,item_name,temp_id
+89,"dough balls 'pizzaexpress' (v)",1
+90,"halloumi bites (v) (gf)",2
+91,"dough balls doppio (v)",3
+92,calamari,4
+93,"lemon & herb chicken wings (gf)",5
+94,"bruschetta originale 'pizzaexpress' (v)",6
+95,"buffalo mozzarella & tomato salad (v) (gf)",7
+96,"garlic bread with mozzarella (v)",8
+97,"polenta chips (v)",9
+98,"vegan dough balls 'pizzaexpress' (v) (ve)",10
+99,"mixed salad (v) (ve) (gf)",11
+100,"marinated olives (v) (ve) (gf)",12
+101,"roasted tomatoes (v) (ve) (gf)",13
+102,"margherita (v)",14
+103,american,15
+104,"bbq burnt ends",16
+105,etna,17
+106,"pollo forza",18
+107,diavolo,19
+108,"sloppy giuseppe",20
+109,"vegan giardiniera (v) (ve)",21
+110,"american hot",22
+111,"pollo ad astra",23
+112,"la reine",24
+113,"quattro formaggi piccante (v)",25
+114,"fiorentina (v)",26
+115,"veneziana (v)",27
+116,porchetta,28
+117,"padana natale (v)",29
+118,"mushroom & truffle (v)",30
+119,"vegan mushroom & pine nut (v) (ve)",31
+120,"pollo pesto (gf)",32
+121,"bolognese (gf)",33
+122,"melanzane (v) (gf)",34
+123,"lasagna classica",35
+124,"cannelloni (v)",36
+125,"calzone 'nduja",37
+126,"calzone verdure (v) (ve)",38
+127,"vegan nourish bowl (v) (ve)",39
+128,"nicoise (gf)",40
+129,"pollo & grain",41
+130,"caprese & prosciutto (gf)",42
+131,"grand chicken caesar",43
+132,"vegan diavolo (v) (ve)",44
+133,"vegan forza (v) (ve)",45
+134,"vegan melanzane (v) (ve) (gf)",46
+135,"sloppy vegan (v) (ve)",47
+136,"vegan american hot (v) (ve)",48
+137,"vegan ad astra (v) (ve)",49
+138,"vegan veneziana (v) (ve)",50
+139,"vegan american jack (v) (ve)",51
+140,"vegan margherita (v) (ve)",52
+141,"vegan padana natale (v) (ve)",53
+142,"chocolate brownie (v) (gf)",54
+143,"red berry & vanilla cheesecake (v)",55
+144,"orange & carrot cake (v) (ve) (gf)",56
+145,"tiramisu (v)",57
+146,"chocolate fudge cake (v)",58
+147,"snowball dough balls (v)",59
+148,"snowball dough balls doppio (v)",60
+149,"vegan snowball dough balls (v) (ve)",61

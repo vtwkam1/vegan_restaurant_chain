@@ -1,59 +1,59 @@
 "item_id","item_name","description","price","category","vegan","section_id"
-1,"vegan sticky 'ribs' (vg)","mushroom + soya protein 'ribs'. sweet + spicy stickysauce. sesame seeds. spring onion…",6.75,"sides","vegan",1
+1,"vegan sticky 'ribs' (vg)","mushroom + soya protein 'ribs'. sweet + spicy stickysauce. sesame seeds. spring onion...",6.75,"sides","vegan",1
 2,"chilli squid","crispy fried squid dusted with shichimi. served with a chilli coriander dipping sauce",7.25,"sides","non-veg",1
-3,"ebi katsu (prawn)","prawns in crispy panko breadcrumbs. coriander. freshlime. chilli + garlic dipping sauce…",7.25,"sides","non-veg",1
-4,"edamame with salt (vg)","beans with salt…",4.5,"sides","vegan",1
-5,"edamame with chilli garlic salt (vg)","beans with chilli-garlic salt…",4.5,"sides","vegan",1
-6,"bang bang cauliflower (vg)","crispy cauliflower. firecracker sauce. red + spring onion.fresh ginger. coriander…",5.5,"sides","vegan",1
-7,"wok-fried greens (vg)","tenderstem broccoli. bok choi. garlic + soy sauce…",4.75,"sides","vegan",1
-8,"tama squid","crispy fried squid balls. okonomiyaki sauce. veganmayonnaise. seaweed. bonito flakes…",7.5,"sides","non-veg",1
-9,"chicken yakitori","marinated chicken skewers. spicy teriyaki sauce. shichimi.spring onions…",6.95,"sides","non-veg",1
-10,"hoisin pulled duck buns","two fluffy asian buns filled with hoisin pulled duck.cucumber. hoisin sauce. vegan mayonnaise…",6.5,"sides","non-veg",2
-11,"spicy teriyaki vegan ‘chicken’ buns (vg)","two fluffy asian buns filled with karikari vegan ‘chicken’.asian slaw. fried shallots. spicy teriyaki sauce…",6.5,"sides","vegan",2
-12,"korean barbecue beef hirata steamed buns","two fluffy asian buns filled with korean barbecue beef. redonion. asian slaw. sriracha vegan mayonnaise.…",6.5,"sides","non-veg",2
-13,"mixed mushroom hirata steamed buns (vg)","two fluffy asian buns filled with panko aubergine. mixedmushrooms. vegan mayonnaise. coriander…",6.5,"sides","vegan",2
-14,"steamed chicken (gyoza)","served grilled and with a dipping sauce…",6.5,"sides","non-veg",3
-15,"fried duck (gyoza)","served with a dipping sauce…",6.5,"sides","non-veg",3
-16,"fried yasai gyoza (vegetable) (vg)","served with a dipping sauce…",6.5,"sides","vegan",3
-17,"steamed pulled pork (gyoza)","served grilled and with a dipping sauce…",6.5,"sides","non-veg",3
-18,"fried prawn (gyoza)","served with a dipping sauce…",6.5,"sides","non-veg",3
-19,"salmon harusame salad","glass noodles. peashoots. edamame. adzuki beans. redradish. pickled asian slaw. tamari soy dressing. mint. slic……",11.25,"mains","non-veg",4
-20,"tofu harusame salad (vg)","glass noodles. peashoots. edamame. adzuki beans. redradish. pickled asian slaw. tamari soy dressing. mint. slic……",9.75,"mains","vegan",4
-21,"katsu curry (chicken)","chicken coated in crispy panko breadcrumbs. aromaticcurry sauce. sticky white rice. side salad…",11.25,"mains","non-veg",5
-22,"katsu curry (yasai) - sweet potato, aubergine + butternut squash (vg)","vegetables coated in crispy panko breadcrumbs. aromatickatsu curry sauce. sticky white rice. side salad…",10.25,"mains","vegan",5
-23,"vegatsu (katsu curry) (vg)","*refreshed recipe* tofu + soya protein in crispy pankobreadcrumbs. aromatic katsu curry sauce. sticky white ri……",11.25,"mains","vegan",5
-24,"hot katsu curry (chicken)","spicy! chicken coated in panko breadcrumbs. spicy currysauce. sticky white rice. side salad…",11.5,"mains","non-veg",5
-25,"hot katsu curry (yasai) - sweet potato, aubergine + butternut squash (vg)","spicy! panko coated vegetables. spicy curry sauce. stickywhite rice. side salad…",10.5,"mains","vegan",5
-26,"hot vegatsu (katsu curry) (vg)","*refreshed recipe* spicy! vegan katsu curry. tofu + soyaprotein in crispy panko breadcrumbs. spicy curry sauce.……",11.5,"mains","vegan",5
-27,"naked katsu","grilled curried chicken. brown rice. edamame. shreddedcarrots. dressed mixed leaves. japanese pickles. side of……",11.25,"mains","non-veg",5
+3,"ebi katsu (prawn)","prawns in crispy panko breadcrumbs. coriander. freshlime. chilli + garlic dipping sauce...",7.25,"sides","non-veg",1
+4,"edamame with salt (vg)","beans with salt...",4.5,"sides","vegan",1
+5,"edamame with chilli garlic salt (vg)","beans with chilli-garlic salt...",4.5,"sides","vegan",1
+6,"bang bang cauliflower (vg)","crispy cauliflower. firecracker sauce. red + spring onion.fresh ginger. coriander...",5.5,"sides","vegan",1
+7,"wok-fried greens (vg)","tenderstem broccoli. bok choi. garlic + soy sauce...",4.75,"sides","vegan",1
+8,"tama squid","crispy fried squid balls. okonomiyaki sauce. veganmayonnaise. seaweed. bonito flakes...",7.5,"sides","non-veg",1
+9,"chicken yakitori","marinated chicken skewers. spicy teriyaki sauce. shichimi.spring onions...",6.95,"sides","non-veg",1
+10,"hoisin pulled duck buns","two fluffy asian buns filled with hoisin pulled duck.cucumber. hoisin sauce. vegan mayonnaise...",6.5,"sides","non-veg",2
+11,"spicy teriyaki vegan 'chicken' buns (vg)","two fluffy asian buns filled with karikari vegan 'chicken'.asian slaw. fried shallots. spicy teriyaki sauce...",6.5,"sides","vegan",2
+12,"korean barbecue beef hirata steamed buns","two fluffy asian buns filled with korean barbecue beef. redonion. asian slaw. sriracha vegan mayonnaise....",6.5,"sides","non-veg",2
+13,"mixed mushroom hirata steamed buns (vg)","two fluffy asian buns filled with panko aubergine. mixedmushrooms. vegan mayonnaise. coriander...",6.5,"sides","vegan",2
+14,"steamed chicken (gyoza)","served grilled and with a dipping sauce...",6.5,"sides","non-veg",3
+15,"fried duck (gyoza)","served with a dipping sauce...",6.5,"sides","non-veg",3
+16,"fried yasai gyoza (vegetable) (vg)","served with a dipping sauce...",6.5,"sides","vegan",3
+17,"steamed pulled pork (gyoza)","served grilled and with a dipping sauce...",6.5,"sides","non-veg",3
+18,"fried prawn (gyoza)","served with a dipping sauce...",6.5,"sides","non-veg",3
+19,"salmon harusame salad","glass noodles. peashoots. edamame. adzuki beans. redradish. pickled asian slaw. tamari soy dressing. mint. slic......",11.25,"mains","non-veg",4
+20,"tofu harusame salad (vg)","glass noodles. peashoots. edamame. adzuki beans. redradish. pickled asian slaw. tamari soy dressing. mint. slic......",9.75,"mains","vegan",4
+21,"katsu curry (chicken)","chicken coated in crispy panko breadcrumbs. aromaticcurry sauce. sticky white rice. side salad...",11.25,"mains","non-veg",5
+22,"katsu curry (yasai) - sweet potato, aubergine + butternut squash (vg)","vegetables coated in crispy panko breadcrumbs. aromatickatsu curry sauce. sticky white rice. side salad...",10.25,"mains","vegan",5
+23,"vegatsu (katsu curry) (vg)","*refreshed recipe* tofu + soya protein in crispy pankobreadcrumbs. aromatic katsu curry sauce. sticky white ri......",11.25,"mains","vegan",5
+24,"hot katsu curry (chicken)","spicy! chicken coated in panko breadcrumbs. spicy currysauce. sticky white rice. side salad...",11.5,"mains","non-veg",5
+25,"hot katsu curry (yasai) - sweet potato, aubergine + butternut squash (vg)","spicy! panko coated vegetables. spicy curry sauce. stickywhite rice. side salad...",10.5,"mains","vegan",5
+26,"hot vegatsu (katsu curry) (vg)","*refreshed recipe* spicy! vegan katsu curry. tofu + soyaprotein in crispy panko breadcrumbs. spicy curry sauce.......",11.5,"mains","vegan",5
+27,"naked katsu","grilled curried chicken. brown rice. edamame. shreddedcarrots. dressed mixed leaves. japanese pickles. side of......",11.25,"mains","non-veg",5
 28,"raisukaree curry (chicken)","a mild, coconut and citrus curry, with chicken, mangetout, peppers, red and spring onions. served with white rice, a sprinkle of mixed sesame seeds, red chillies, coriander and fresh lime",12.95,"mains","non-veg",5
 29,"raisukaree curry (prawn)","a mild, coconut and citrus curry, with prawns, mangetout, peppers, red and spring onions. served with white rice, a sprinkle of mixed sesame seeds, red chillies, coriander and fresh lime",13.95,"mains","non-veg",5
 30,"raisukaree curry (tofu) (vg)","mild + citrusy. tofu. coconut. mangetout. peppers. red + spring onion. sesame seeds. chilli. coriander. fresh lime. white sticky rice",11.95,"mains","vegan",5
-31,"firecracker curry (chicken)","bold + fiery. mangetout. red + green peppers. onion. hotred chillies. sesame seeds. shichimi. fresh lime. white rice…",12.5,"mains","non-veg",5
-32,"firecracker curry (prawn)","bold + fiery. mangetout. red + green peppers. onion. hotred chillies. sesame seeds. shichimi. fresh lime. white rice…",13.5,"mains","non-veg",5
-33,"firecracker curry (tofu) (vg)","bold + fiery. tofu. hot red chillies. mangetout. red + greenpeppers. onion. sesame seeds. shichimi. fresh lime. whit……",11.5,"mains","vegan",5
-34,"yaki soba (chicken + prawn) (thin noodles)","thin noodles. egg. chicken. prawns. peppers.beansprouts. white + spring onion. fried shallots. pickled……",10.5,"mains","non-veg",6
-35,"yaki soba (yasai) - mushroom + vegetable (thin noodles) (v)","thin noodles. egg. peppers. beansprouts. white + springonion. fried shallots. pickled ginger. sesame seeds…",9.5,"mains","vegetarian",6
-36,"yaki soba (yasai) - mushroom + vegetable (rice noodles) (vg)","rice noodles. mushrooms. peppers. beansprout. white +spring onion. fried shallots. pickled ginger. sesame seeds…",9.5,"mains","vegan",6
-37,"yaki soba (yasai) - mushroom + vegetable (thick noodles) (vg)","thick noodles. mushrooms. peppers. beansprout. white +spring onion. fried shallots. pickled ginger. sesame seeds…",9.5,"mains","vegan",6
-38,"pad thai (chicken + prawn) (rice noodles)","rice noodles. amai sauce. egg. beansprouts. leeks. chilli.red + spring onion. fried shallots. mint. coriander. fresh l……",11.5,"mains","non-veg",6
-39,"yasai pad thai - tofu + vegetables (rice noodles) (vg)","rice noodles. amai sauce. tofu. beansprouts. leek. chilli.red + spring onions. fried shallots. mint. coriander…",10.5,"mains","vegan",6
-40,"yasai pad thai - tofu + vegetables (rice noodles) (v)","rice noodles. amai sauce. egg. tofu. beansprouts. leek.chilli. red + spring onions. fried shallots. mint. coriander…",10.5,"mains","vegetarian",6
-41,"yaki udon (chicken + prawn) (thick noodles)","thick noodles. curry oil. chicken. prawns. chikuwa. egg.beansprouts. leeks. mushrooms. peppers. fried shallots.……",11.25,"mains","non-veg",6
-42,"teriyaki soba (sirloin steak) (thin noodles)","thin noodles. curry oil. mangetout. bok choi. red + springonion. chilli. beansprouts. teriyaki sauce. coriander. ses……",15.25,"mains","non-veg",6
-43,"teriyaki soba (salmon) (may contain small bones) (thin noodles)","thin noodles. curry oil. mangetout. bok choi. red + springonion. chilli. beansprouts. teriyaki sauce. sesame seeds…",14.25,"mains","non-veg",6
-44,"ginger chicken udon (thick noodles)","thick noodles. mangetout. chicken. egg. chilli.beansprouts. red + spring onion. pickled ginger. coriander…",11.25,"mains","non-veg",6
+31,"firecracker curry (chicken)","bold + fiery. mangetout. red + green peppers. onion. hotred chillies. sesame seeds. shichimi. fresh lime. white rice...",12.5,"mains","non-veg",5
+32,"firecracker curry (prawn)","bold + fiery. mangetout. red + green peppers. onion. hotred chillies. sesame seeds. shichimi. fresh lime. white rice...",13.5,"mains","non-veg",5
+33,"firecracker curry (tofu) (vg)","bold + fiery. tofu. hot red chillies. mangetout. red + greenpeppers. onion. sesame seeds. shichimi. fresh lime. whit......",11.5,"mains","vegan",5
+34,"yaki soba (chicken + prawn) (thin noodles)","thin noodles. egg. chicken. prawns. peppers.beansprouts. white + spring onion. fried shallots. pickled......",10.5,"mains","non-veg",6
+35,"yaki soba (yasai) - mushroom + vegetable (thin noodles) (v)","thin noodles. egg. peppers. beansprouts. white + springonion. fried shallots. pickled ginger. sesame seeds...",9.5,"mains","vegetarian",6
+36,"yaki soba (yasai) - mushroom + vegetable (rice noodles) (vg)","rice noodles. mushrooms. peppers. beansprout. white +spring onion. fried shallots. pickled ginger. sesame seeds...",9.5,"mains","vegan",6
+37,"yaki soba (yasai) - mushroom + vegetable (thick noodles) (vg)","thick noodles. mushrooms. peppers. beansprout. white +spring onion. fried shallots. pickled ginger. sesame seeds...",9.5,"mains","vegan",6
+38,"pad thai (chicken + prawn) (rice noodles)","rice noodles. amai sauce. egg. beansprouts. leeks. chilli.red + spring onion. fried shallots. mint. coriander. fresh l......",11.5,"mains","non-veg",6
+39,"yasai pad thai - tofu + vegetables (rice noodles) (vg)","rice noodles. amai sauce. tofu. beansprouts. leek. chilli.red + spring onions. fried shallots. mint. coriander...",10.5,"mains","vegan",6
+40,"yasai pad thai - tofu + vegetables (rice noodles) (v)","rice noodles. amai sauce. egg. tofu. beansprouts. leek.chilli. red + spring onions. fried shallots. mint. coriander...",10.5,"mains","vegetarian",6
+41,"yaki udon (chicken + prawn) (thick noodles)","thick noodles. curry oil. chicken. prawns. chikuwa. egg.beansprouts. leeks. mushrooms. peppers. fried shallots.......",11.25,"mains","non-veg",6
+42,"teriyaki soba (sirloin steak) (thin noodles)","thin noodles. curry oil. mangetout. bok choi. red + springonion. chilli. beansprouts. teriyaki sauce. coriander. ses......",15.25,"mains","non-veg",6
+43,"teriyaki soba (salmon) (may contain small bones) (thin noodles)","thin noodles. curry oil. mangetout. bok choi. red + springonion. chilli. beansprouts. teriyaki sauce. sesame seeds...",14.25,"mains","non-veg",6
+44,"ginger chicken udon (thick noodles)","thick noodles. mangetout. chicken. egg. chilli.beansprouts. red + spring onion. pickled ginger. coriander...",11.25,"mains","non-veg",6
 45,"grilled chicken ramen","with seasonal greens. menma. spring onion. rich chicken broth with dashi + miso. marinated chicken.",10.5,"mains","non-veg",7
 46,"chilli ramen (chicken)","noodles in a spicy chicken broth topped with grilled chicken, red onion, spring onions, beansprouts, chilli, coriander and fresh lime",12.25,"mains","non-veg",7
-47,"tantanmen beef brisket ramen","korean barbecue beef. half a tea-stained egg. menma.kimchi. spring onion. coriander. chilli oil. extra rich chick……",13.95,"mains","non-veg",7
-48,"kare burosu ramen (tofu) (vg)","shichimi coated silken tofu. grilled mushrooms. seasonalgreens. carrot. chilli. coriander. udon noodles. curried v……",11.95,"mains","vegan",7
-49,"miso-glazed cod ramen","bok choy. menma. spring onion. chilli oil. light vegetablebroth…",14.5,"mains","non-veg",7
-50,"chilli ramen (sirlion steak)","red + spring onion. beansprouts. coriander. fresh lime.spicy chicken broth…",13.95,"mains","non-veg",7
-51,"shirodashi ramen (pork belly)","slow-cooked with seasonal greens. menma. spring onion.wakame. half a tea-stained egg. rich chicken broth with ……",12.25,"mains","non-veg",7
-52,"teriyaki donburi (chicken)","teriyaki sauce. shredded carrots. seasonal greens. springonion. sesame seeds. side of kimchee…",10.95,"mains","non-veg",8
-53,"teriyaki donburi (beef brisket)","teriyaki sauce. shredded carrots. seasonal greens. springonion. sesame seeds. side of kimchee…",12.75,"mains","non-veg",8
-54,"grilled duck donburi (may contain small bones)","shredded in spicy teriyaki sauce. carrot. mangetout. sweetpotato. red + spring onion. fried egg. cucumber. side of ……",14.75,"mains","non-veg",8
-55,"no duck donburi (vg)","shredded seitan + shiitake mushrooms in a cherry hoisinsauce. edamame beans. kimchee. coconut + sriracha v……",12.25,"mains","vegan",8
-56,"shu’s shiok jackfruit (vg)","turmeric + ginger jackfruit, roasted and served on a bed of coconut + lemongrass dressed rice. pickled slaw + radish. chilli. coriander. caramelised lime.",10.95,"mains","vegan",8
+47,"tantanmen beef brisket ramen","korean barbecue beef. half a tea-stained egg. menma.kimchi. spring onion. coriander. chilli oil. extra rich chick......",13.95,"mains","non-veg",7
+48,"kare burosu ramen (tofu) (vg)","shichimi coated silken tofu. grilled mushrooms. seasonalgreens. carrot. chilli. coriander. udon noodles. curried v......",11.95,"mains","vegan",7
+49,"miso-glazed cod ramen","bok choy. menma. spring onion. chilli oil. light vegetablebroth...",14.5,"mains","non-veg",7
+50,"chilli ramen (sirlion steak)","red + spring onion. beansprouts. coriander. fresh lime.spicy chicken broth...",13.95,"mains","non-veg",7
+51,"shirodashi ramen (pork belly)","slow-cooked with seasonal greens. menma. spring onion.wakame. half a tea-stained egg. rich chicken broth with ......",12.25,"mains","non-veg",7
+52,"teriyaki donburi (chicken)","teriyaki sauce. shredded carrots. seasonal greens. springonion. sesame seeds. side of kimchee...",10.95,"mains","non-veg",8
+53,"teriyaki donburi (beef brisket)","teriyaki sauce. shredded carrots. seasonal greens. springonion. sesame seeds. side of kimchee...",12.75,"mains","non-veg",8
+54,"grilled duck donburi (may contain small bones)","shredded in spicy teriyaki sauce. carrot. mangetout. sweetpotato. red + spring onion. fried egg. cucumber. side of ......",14.75,"mains","non-veg",8
+55,"no duck donburi (vg)","shredded seitan + shiitake mushrooms in a cherry hoisinsauce. edamame beans. kimchee. coconut + sriracha v......",12.25,"mains","vegan",8
+56,"shu's shiok jackfruit (vg)","turmeric + ginger jackfruit, roasted and served on a bed of coconut + lemongrass dressed rice. pickled slaw + radish. chilli. coriander. caramelised lime.",10.95,"mains","vegan",8
 57,"shu's 'shiok' chicken (under 600 calories)","currently sold out",11.25,"mains","non-veg",8
-58,"white chocolate + ginger cheesecake","with toffee + ginger sauce…",6.5,"desserts","non-veg",9
+58,"white chocolate + ginger cheesecake","with toffee + ginger sauce...",6.5,"desserts","non-veg",9
