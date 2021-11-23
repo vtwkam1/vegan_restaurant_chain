@@ -8,10 +8,14 @@ dim(source_table) # check dimensions (71 rows)
 
 # Simple cleaning
 table <- source_table %>% 
-    mutate(across(everything(), str_to_lower)) %>% # convert to lowercase
-    mutate(
-           price = as.numeric(str_replace(price, "[:symbol:]", ""))) %>% 
-    mutate(across(c(name, description), ~ str_replace_all(.x, "\\<[:graph:]*\\>", "" %>% str_trim)))
+    mutate(price = as.numeric(str_replace(price, "[:symbol:]", ""))) %>% 
+    mutate(across(where(is.character), 
+                  ~ str_replace_all(.x, "\\<[:graph:]*\\>", "") %>% 
+                      stringi::stri_trans_general("latin-ascii") %>%
+                      str_to_lower %>% 
+                      str_trim)) %>% 
+    mutate(name = str_replace(name, "new(?=\\s{1})", "") %>% 
+               str_trim)
 
 # Identify sold out items to manually add description
 table %>% 

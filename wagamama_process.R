@@ -6,9 +6,14 @@ dim(source_table) # check dimensions (141 rows)
 
 # Simple cleaning
 table <- source_table %>% 
-    mutate(across(everything(), str_to_lower)) %>% # convert to lowercase
-    mutate(
-           price = as.numeric(str_replace(price, "[:symbol:]", ""))) %>% 
+    mutate(price = as.numeric(str_replace(price, "[:symbol:]", ""))) %>% 
+    mutate(across(where(is.character), 
+                  ~ str_replace_all(.x, "\\<[:graph:]*\\>", "") %>% 
+                      stringi::stri_trans_general("latin-ascii") %>%
+                      str_to_lower %>% 
+                      str_trim)) %>% 
+    mutate(name = str_replace(name, "new(?=\\s{1})", "") %>% 
+               str_trim) %>% 
     filter(between(row_number(), 1, (which(name=="still water")-1))) # drop drinks
 
 nrow(table) # 115 rows
