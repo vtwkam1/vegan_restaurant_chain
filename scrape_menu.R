@@ -5,6 +5,11 @@ library(rvest)
 
 options(stringsAsFactors = FALSE)
 
+# Create output folder
+if (!dir.exists("output")) {
+  dir.create("output")
+}
+
 scrape_menu <- function(url) {
   ## change Phantom.js scrape file
   lines <- readLines("scrape_final.js")
