@@ -1,7 +1,7 @@
 # vegan_restaurant_chain
 ## [scrape_menu.R](https://github.com/vtwkam1/vegan_restaurant_chain/blob/main/scrape_menu.R)
 Specifies function scrape_menu() to get webpage html
-- Uses [phantomjs](https://github.com/vtwkam1/vegan_restaurant_chain/blob/main/phantomjs.exe) headless browser to bypass delayed JavaScript content and scrape Deliveroo webpages, following [tutorial from R-bloggers](https://www.r-bloggers.com/2016/03/web-scraping-javascript-rendered-sites/)
+- Uses [phantomjs](https://phantomjs.org/) headless browser to bypass delayed JavaScript content and scrape Deliveroo webpages, following [tutorial from R-bloggers](https://www.r-bloggers.com/2016/03/web-scraping-javascript-rendered-sites/)
 
 Specifies function extract_menu() to extract relevant information from html
 - Uses [rvest package](https://rvest.tidyverse.org/) 
