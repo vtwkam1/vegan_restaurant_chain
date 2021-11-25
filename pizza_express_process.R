@@ -3,7 +3,12 @@ library(stringi)
 
 chain <- "pizza_express"
 
-source_table <- read.csv(sprintf("%s.csv", chain))
+# Create output folder
+if (!dir.exists("output")) {
+    dir.create("output")
+}
+
+source_table <- read.csv(file.path("output", sprintf("%s.csv", chain)))
 
 dim(source_table) # check dimensions (112 rows)
 
@@ -28,7 +33,7 @@ table <- table %>%
 nrow(table) # 85 rows
 
 # Assign menu sections
-menu_section <- read.delim(sprintf("%s_menu_section.txt", chain), header=F)
+menu_section <- read.delim(file.path("output", sprintf("%s_menu_section.txt", chain)), header=F)
 menu_section <- as.character(menu_section[,1]) %>% str_to_lower()
 
 table %>% 
@@ -159,10 +164,10 @@ section_sql <- table %>%
     mutate(section_id = row_number(),
            .before = 1)
 
-write.csv(section_sql, sprintf("%s_section.csv", chain), row.names = F)
+write.csv(section_sql, file.path("output", sprintf("%s_section.csv", chain)), row.names = F)
 
 ## Import new Section IDs from SQL database
-section_id_sql_assigned <- read.csv(sprintf("%s_section_sql.csv", chain))
+section_id_sql_assigned <- read.csv(file.path("output", sprintf("%s_section_sql.csv", chain)))
 
 ## Replace Section IDs
 section_sql <- section_sql %>% 
@@ -177,10 +182,10 @@ item_sql <- table %>%
     select(!section) %>% 
     rename(item_id_r = id, item_name = name) 
 
-write.csv(item_sql, sprintf("%s_item.csv", chain), row.names = F)
+write.csv(item_sql, file.path("output", sprintf("%s_item.csv", chain)), row.names = F)
 
 ## Import new item IDs from SQL database
-item_id_sql_assigned <- read.csv(sprintf("%s_item_sql.csv", chain))
+item_id_sql_assigned <- read.csv(file.path("output", sprintf("%s_item_sql.csv", chain)))
 
 # Protein SQL table
 protein_sql <- protein_table %>%
@@ -190,4 +195,4 @@ protein_sql <- protein_table %>%
     select(item_id, protein) %>%
     drop_na(protein) 
 
-write.csv(protein_sql, sprintf("%s_protein.csv", chain), row.names = F)
+write.csv(protein_sql, file.path("output", sprintf("%s_protein.csv", chain)), row.names = F)

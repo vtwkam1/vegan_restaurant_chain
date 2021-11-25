@@ -58,10 +58,10 @@ extract_menu <- function(html, itemname_cost_css, item_description_css, menu_sec
                        price=item_price)
   
   # export item table
-  write.csv(item_table, sprintf("%s.csv", chain), row.names = F)
+  write.csv(item_table, file.path("output", sprintf("%s.csv", chain)), row.names = F)
   
   # export menu section
-  write(menu_section, sprintf("%s_menu_section.txt", chain))
+  write(menu_section, file.path("output", sprintf("%s_menu_section.txt", chain)))
 }
 
 

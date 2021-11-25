@@ -1,7 +1,14 @@
 library(tidyverse)
 library(stringi)
 
-source_table <- read.csv("wagamama.csv")
+chain <- "wagamama"
+
+# Create output folder
+if (!dir.exists("output")) {
+    dir.create("output")
+}
+
+source_table <- read.csv(file.path("output", sprintf("%s.csv", chain)))
 
 dim(source_table) # check dimensions (141 rows)
 
@@ -24,7 +31,7 @@ table %>%
     filter(description == "currently sold out")
 
 # Assign menu sections
-menu_section <- read.delim("wagamama_menu_section.txt", header=F)
+menu_section <- read.delim(file.path("output", sprintf("%s_menu_section.txt", chain)), header=F)
 menu_section <- as.character(menu_section[,1]) %>% str_to_lower()
 
 ## Tidy menu sections
@@ -146,7 +153,7 @@ protein_sql <- protein_table %>%
     drop_na(protein) %>% 
     rename(item_id = id)
 
-write.csv(protein_sql, "wagamama_protein.csv", row.names = F)
+write.csv(protein_sql, file.path("output", sprintf("%s_protein.csv", chain)), row.names = F)
 
 # Menu section SQL table
 section_sql <- table %>% 
@@ -154,7 +161,7 @@ section_sql <- table %>%
     mutate(section_id = row_number(),
            .before = 1)
 
-write.csv(section_sql, "wagamama_section.csv", row.names = F)
+write.csv(section_sql, file.path("output", sprintf("%s_section.csv", chain)), row.names = F)
 
 # Item SQL table
 item_sql <- table %>% 
@@ -163,5 +170,5 @@ item_sql <- table %>%
     select(!section) %>% 
     rename(item_id = id, item_name = name)
 
-write.csv(item_sql, "wagamama_item.csv", row.names = F)
+write.csv(item_sql, file.path("output", sprintf("%s_item.csv", chain)), row.names = F)
 
