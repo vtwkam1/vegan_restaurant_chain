@@ -26,3 +26,4 @@ Cleans extracted information, assigns vegan status, category and menu section to
 
 
 ## [Tableau dashboard](https://public.tableau.com/app/profile/vanessa.kam/viz/vegan_restaurant_chain/1_Category) to explore database
+[![Click to head to Tableau Public](https://public.tableau.com/static/images/ve/vegan_restaurant_chain/1_Category/1.png)](https://public.tableau.com/app/profile/vanessa.kam/viz/vegan_restaurant_chain/1_Category)
